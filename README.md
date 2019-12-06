@@ -1,10 +1,10 @@
 # Fernish Take-Home Coding Exercise
 
-We hope you’ll agree we’ve designed our coding exercise to be a bit of lighthearted fun. Rest assured, nothing in this test depends on clever esoteric algorithms; Your favorite trusted JSON parser along with arrays, hash tables/dictionaries, and some elbow grease is all you really need.
+We hope you’ll agree we’ve designed our coding exercise to be a bit of lighthearted fun. Rest assured, nothing in this test depends on clever esoteric algorithms; Your favorite trusted JSON parser along with arrays, hash tables/dictionaries, and some elbow grease is all you really need. In fact, feel free to use this repo as the starting point for your solution! 😀
 
 We would also like to emphasize that a partial, but clear and well-written implementation will always be easier for us to evaluate than a messy spaghetti solution that gets all the way to the end--although we have no idea how. Start at the beginning, use your best judgement, and read each part carefully before you dive in.
 
-Each part of the exercise builds on the last, so in an ideal world, you would end up with a **single program** that covers all the requirements of the exercise. In fact, feel free to use this repo as the starting point for your solution! 😀
+Each part of the exercise builds on the last, so in an ideal world, you would end up with a **single program** that covers all the requirements of the exercise.
 
 ## Time Allotment
 
