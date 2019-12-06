@@ -39,11 +39,20 @@ You will receive a ZIP file with the instructions you’re reading right now, th
 **Important:** Please try to run the examples below so that you understand how we are going to run your solution.
 
 ```bash
-./src/node_starter.js ./examples/example.json
+# javascript
+./src/node_starter.js ./examples/example_1.json
 
-./src/ruby_starter.rb ./examples/example.json
+# ruby
+./src/ruby_starter.rb ./examples/example_1.json
 
-./src/python3_starter.py ./examples/example.json
+# python
+./src/python3_starter.py ./examples/example_1.json
+
+# go
+./src/go_starter.go ./examples/example_1.json
+
+# rust
+cargo run --manifest-path src/rust_starter/Cargo.toml -- ./examples/example_1.json 
 ```
 
 Your submission needs to have at least the following items.
