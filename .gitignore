@@ -1,1 +1,3 @@
 src/rust_starter/target/*
+node_modules
+package-lock.json

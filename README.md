@@ -40,7 +40,13 @@ You will receive a ZIP file with the challenge and a set of sample JSON input fi
 
 ```bash
 # javascript
-./src/node_starter.js ./examples/example_1.json
+cd src/node_javascript
+npm install
+npm test
+
+# or if you want to re-run the tests automatically every time a file is saved:
+npm run test-watch
+
 
 # ruby
 ./src/ruby_starter.rb ./examples/example_1.json
