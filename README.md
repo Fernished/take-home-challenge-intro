@@ -49,7 +49,18 @@ npm run test-watch
 
 
 # ruby
-./src/ruby_starter.rb ./examples/example_1.json
+cd src_ruby
+
+# Run all tests
+for file in ./tests/*.rb; do ruby $file; done
+
+# Manually run tests for one part at a time
+ruby ./tests/part1_test.rb
+
+# Run one test at a time
+ruby ./tests/part1_test.rb --name test_part_1a
+ruby ./tests/part4_test.rb --name test_part_4a
+
 
 # python
 ./src/python3_starter.py ./examples/example_1.json
